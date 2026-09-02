@@ -1,51 +1,43 @@
+<!-- ===================================================== -->
+<!--                    HERO SECTION                       -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm Sone Siji
-
-### AI / ML Engineer • Python Developer • Computer Vision
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+with+Python;Computer+Vision+%7C+YOLO+%7C+OCR;Machine+Learning+%7C+Data+%7C+Automation;Turning+Real-World+Problems+into+AI+Solutions" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Sone%20Siji&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=58&descSize=20&animation=fadeIn&color=0:0F172A,50:172554,100:0F766E"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=I+build+intelligent+systems+that+solve+real-world+problems.;Computer+Vision+%7C+AI+%7C+Machine+Learning+%7C+Python;From+raw+data+to+working+intelligence." />
+
+<br><br>
+
 <a href="https://github.com/sonesiji">
-<img src="https://img.shields.io/badge/GitHub-Sone%20Siji-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=sonesiji&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335"/>
+</a>
 
 </div>
 
 ---
 
-# 🧠 About Me
-
-I'm a developer focused on building **practical AI and software solutions** that solve real-world problems.
-
-My primary interests are:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 👁️ Computer Vision
-- 🎯 Object Detection & Tracking
-- 🔤 OCR & Document Intelligence
-- 🐍 Python Development
-- 📊 Data Analysis
-- 🗄️ SQL & Databases
-- ⚙️ Automation & Intelligent Systems
-
-I enjoy taking a problem from:
+## `01` — WHO AM I?
 
 ```text
-Idea
-  ↓
-Data
-  ↓
-Model
-  ↓
-Application
-  ↓
-Real-World Solution
+Sone Siji
+────────────────────────────────────────────────────────────
+
+Role        →  AI / ML Developer
+Focus       →  Computer Vision & Intelligent Systems
+Building    →  Real-world AI applications
+Stack       →  Python · SQL · YOLO · OpenCV · OCR
+Mindset     →  Learn → Build → Break → Improve
+
+────────────────────────────────────────────────────────────

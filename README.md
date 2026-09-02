@@ -1,103 +1,51 @@
-<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Sone Siji</h1>
+# 👋 Hi, I'm Sone Siji
 
-<h3 align="center">
-  AI / Machine Learning Developer • Python Developer • Computer Vision Enthusiast
-</h3>
+### AI / ML Engineer • Python Developer • Computer Vision
 
-<p align="center">
-  <a href="https://github.com/sonesiji">
-    <img src="https://komarev.com/ghpvc/?username=sonesiji&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/sonesiji?tab=followers">
-    <img src="https://img.shields.io/github/followers/sonesiji?label=Followers&style=flat" alt="Followers"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+with+Python;Computer+Vision+%7C+YOLO+%7C+OCR;Machine+Learning+%7C+Data+%7C+Automation;Turning+Real-World+Problems+into+AI+Solutions" />
 
-<!-- ===================== TYPING ===================== -->
+<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;Building+AI+%26+Machine+Learning+Solutions;Computer+Vision+%7C+YOLO+%7C+OpenCV;Python+%7C+SQL+%7C+Data+Analysis;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<a href="https://github.com/sonesiji">
+<img src="https://img.shields.io/badge/GitHub-Sone%20Siji-181717?style=for-the-badge&logo=github"/>
+</a>
 
----
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-## 👨‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=sonesiji&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
 
-I'm a passionate **Python and AI/ML developer** interested in building practical solutions using machine learning, computer vision, and data.
-
-- 🤖 Working with **Artificial Intelligence & Machine Learning**
-- 👁️ Exploring **Computer Vision & Object Detection**
-- 🎯 Building projects using **YOLO & OpenCV**
-- 🔤 Working with **OCR and image processing**
-- 🐍 Developing applications with **Python**
-- 🗄️ Working with **SQL & databases**
-- 📊 Interested in **Data Analysis & Visualization**
-- 🌱 Continuously learning new technologies
-- 🚀 Turning ideas into real-world projects
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 About Me
 
-### 👨‍💻 Programming
+I'm a developer focused on building **practical AI and software solutions** that solve real-world problems.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-</p>
+My primary interests are:
 
-### 🤖 AI / Machine Learning
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
+- 🎯 Object Detection & Tracking
+- 🔤 OCR & Document Intelligence
+- 🐍 Python Development
+- 📊 Data Analysis
+- 🗄️ SQL & Databases
+- ⚙️ Automation & Intelligent Systems
 
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
-</p>
-
-**Computer Vision:** YOLO • OpenCV • OCR • Image Processing
-
-**Machine Learning:** Scikit-learn • Pandas • NumPy • Model Evaluation
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🚗 YOLO License Plate Recognition
-
-Real-time vehicle license plate detection and recognition system using:
-
-- YOLO
-- OpenCV
-- PaddleOCR
-- RTSP/IP Camera
-- Python
-
-**Pipeline:**
+I enjoy taking a problem from:
 
 ```text
-IP Camera
-    ↓
-RTSP Stream
-    ↓
-OpenCV
-    ↓
-YOLO Detection
-    ↓
-License Plate Crop
-    ↓
-Image Processing
-    ↓
-PaddleOCR
-    ↓
-License Plate Number
+Idea
+  ↓
+Data
+  ↓
+Model
+  ↓
+Application
+  ↓
+Real-World Solution
